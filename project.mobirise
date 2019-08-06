@@ -54,7 +54,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "https://karanarya4196.github.io/",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/642268-128x72.png",
+    "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
     "sitemapSwitcher": "on"
