@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "My Site",
-    "currentPage": "timeline.html",
+    "name": "Portfolio",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -943,9 +943,9 @@
         }
       ]
     },
-    "timeline.html": {
+    "page1.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "",
         "title": "Timeline",
         "order": 2
       },
